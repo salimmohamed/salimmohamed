@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Salim Mohamed</h1>
-<h3 align="center">Student at Oregon State University🦫.</h3>
+<h3 align="center">Student at Oregon State University.</h3>
 
 <br>
 
@@ -9,7 +9,7 @@
 
 
 
-- 🌱 I’m currently in my third year at Oregon State University, studying as an undergrad in Computer Science
+- 🌱 I’m currently in my third year at Oregon State University, studying as an undergrad in Computer Science with a focus on Cybersecurity.
 
 - 📫 You can reach me at **smohamed9927@gmail.com**
 
