@@ -70,7 +70,7 @@ An AI-powered agent that autonomously monitors **Polymarket** prediction markets
 ## 📊 Featured Projects
 
 ### 🤖 [Discord Auto-Responder Bot](https://github.com/salimmohamed/Discord-Auto-Responder-Bot) — Automated Discord Bot
-> **60+ Daily Active Users** | Solo Project | ⭐ 1
+> **60+ Daily Active Users** | Solo Project
 
 ![Discord Bot Demo](assets/discord_bot_demo.gif)
 
@@ -104,7 +104,7 @@ Real-time stock monitoring platform with portfolio tracking, smart alerts, and m
 ---
 
 ### 🔍 [Job Application Tool](https://github.com/salimmohamed/CS46X-Job-Application-Tool) — AI Job Matching Platform
-> **Senior Capstone** | Team of 4 | ⭐ 2
+> **Senior Capstone** | Team of 4
 
 AI-powered web application that scrapes job boards (LinkedIn, Indeed, GitHub Jobs) and uses ML-based matching to connect job seekers with relevant opportunities.
 
