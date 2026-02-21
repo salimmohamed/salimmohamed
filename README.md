@@ -19,7 +19,7 @@ I build tools that solve real problems — from AI agents that detect insider tr
 
 > **🏆 Awarded Best Overall Project** at the ColorStack Winter Hackathon 2025.
 
-![Argus Demo](assets/argus_demo.gif)
+<video src="assets/argus_demo.mp4" autoplay loop muted playsinline width="100%"></video>
 
 An AI-powered agent that autonomously monitors **Polymarket** prediction markets for insider trading activity. Uses **Claude Opus 4.5** to detect suspicious trader behavior — flagging accounts with unusual win rates, disproportionate bets, and suspicious timing around announcements.
 
@@ -73,7 +73,7 @@ An AI-powered agent that autonomously monitors **Polymarket** prediction markets
 ### 🤖 [Discord Auto-Responder Bot](https://github.com/salimmohamed/Discord-Auto-Responder-Bot) — Automated Discord Bot
 > **60+ Daily Active Users** | Solo Project | ⭐ 1
 
-![Discord Bot Demo](assets/discord_bot_demo.gif)
+<video src="assets/discord_bot_demo.mp4" autoplay loop muted playsinline width="100%"></video>
 
 An automated Discord responder with a **Tkinter GUI** serving **60+ daily users** — keyword detection, role ping monitoring, and instant custom replies across channels.
 
@@ -90,7 +90,7 @@ An automated Discord responder with a **Tkinter GUI** serving **60+ daily users*
 ### 📈 [Foresight](https://github.com/salimmohamed/Foresight) — Real-Time Stock Portfolio Platform
 > **Full-Stack Finance App** | Solo Project | [Live Demo](https://foresight-wealth.vercel.app)
 
-![Foresight Demo](assets/foresight_demo.gif)
+<video src="assets/foresight_demo.mp4" autoplay loop muted playsinline width="100%"></video>
 
 Real-time stock monitoring platform with portfolio tracking, smart alerts, and market insights.
 
