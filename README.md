@@ -1,18 +1,18 @@
 # Hi, I'm Salim Mohamed 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/salimamohamed)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamsal@oregonstate.edu)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salimmohamed.swe@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://salimmohamed.dev)
 
 ## 🎓 About Me
 
-**Computer Science Senior** @ **Oregon State University** | Background in **AI, Cybersecurity & Accounting**
+**Computer Science Senior** @ **Oregon State University** | Incoming **Technical Support Engineer @ IBM**
 
-I build tools that solve real problems — from AI agents that detect insider trading to full-stack platforms with real-time data. Passionate about **AI/ML**, **full-stack development**, and **systems programming**.
+Background in **AI, Cybersecurity & Accounting**. I build tools that solve real problems, from AI agents that detect insider trading to full-stack platforms with real-time data. Passionate about **AI/ML**, **full-stack development**, and **systems programming**.
 
 ## 🏆 Achievements
 
-### 🥇 ColorStack Winter Hackathon 2025 — Best Overall Project
+### 🥇 ColorStack Winter Hackathon 2025: Best Overall Project
 
 **Project**: [Argus](https://github.com/salimmohamed/colorstackwinterhack2025-argus) | [Live Demo](https://argus-watch.vercel.app)
 
@@ -20,7 +20,7 @@ I build tools that solve real problems — from AI agents that detect insider tr
 
 ![Argus Demo](assets/argus_demo.gif)
 
-An AI-powered agent that autonomously monitors **Polymarket** prediction markets for insider trading activity. Uses **Claude Opus 4.5** to detect suspicious trader behavior — flagging accounts with unusual win rates, disproportionate bets, and suspicious timing around announcements.
+An AI-powered agent that autonomously monitors **Polymarket** prediction markets for insider trading activity. Uses **Claude Opus 4.5** to detect suspicious trader behavior, flagging accounts with unusual win rates, disproportionate bets, and suspicious timing around announcements.
 
 **What I Built**:
 - **AI Analysis Engine**: Integrated Claude Opus 4.5 via AWS Bedrock to analyze trader patterns and generate evidence-based insider trading reports
@@ -69,24 +69,24 @@ An AI-powered agent that autonomously monitors **Polymarket** prediction markets
 
 ## 📊 Featured Projects
 
-### 🤖 [Discord Auto-Responder Bot](https://github.com/salimmohamed/Discord-Auto-Responder-Bot) — Automated Discord Bot
+### 🤖 [Discord Auto-Responder Bot](https://github.com/salimmohamed/Discord-Auto-Responder-Bot): Automated Discord Bot
 > **60+ Daily Active Users** | Solo Project
 
 ![Discord Bot Demo](assets/discord_bot_demo.gif)
 
-An automated Discord responder with a **Tkinter GUI** serving **60+ daily users** — keyword detection, role ping monitoring, and instant custom replies across channels.
+An automated Discord responder with a **Tkinter GUI** serving **60+ daily users**, featuring keyword detection, role ping monitoring, and instant custom replies across channels.
 
 **Key Features**:
 - Keyword and role mention detection with custom responses
 - Channel filtering and restriction controls
-- GUI for configuration — no code editing required
+- GUI for configuration, no code editing required
 - Live logging and start/stop controls
 
 **Technologies**: Python, discord.py, Tkinter, JSON
 
 ---
 
-### 📈 [Foresight](https://github.com/salimmohamed/Foresight) — Real-Time Stock Portfolio Platform
+### 📈 [Foresight](https://github.com/salimmohamed/Foresight): Real-Time Stock Portfolio Platform
 > **Full-Stack Finance App** | Solo Project | [Live Demo](https://foresight-wealth.vercel.app)
 
 ![Foresight Demo](assets/foresight_demo.gif)
@@ -103,25 +103,28 @@ Real-time stock monitoring platform with portfolio tracking, smart alerts, and m
 
 ---
 
-### 🔍 [Job Application Tool](https://github.com/salimmohamed/CS46X-Job-Application-Tool) — AI Job Matching Platform
+### 🤖 [Job Hunting AI Web Tool](https://github.com/salimmohamed/CS46X-Job-Application-Tool): AI-Powered Chrome Extension
 > **Senior Capstone** | Team of 4
 
-AI-powered web application that scrapes job boards (LinkedIn, Indeed, GitHub Jobs) and uses ML-based matching to connect job seekers with relevant opportunities.
+![Capstone Demo](assets/capstone_demo.gif)
+
+A Chrome extension that automates job applications by parsing resumes into structured profiles and intelligently filling forms across ATS platforms like Workday, Greenhouse, and Lever. Uses an agentic AI architecture combining a fast heuristic matcher with LLM fallback for ambiguous fields.
 
 **Key Features**:
-- Multi-source web scraping with Selenium (LinkedIn, Indeed, GitHub Jobs)
-- ML-powered job matching via LangChain/LangGraph
-- React + TypeScript frontend with Python backend
-- CI/CD pipeline with GitHub Actions and Docker
+- Resume parsing into structured profile fields via LLM
+- Multi-page form navigation across ATS platforms
+- Hybrid agent architecture: heuristic matching with LLM fallback for ambiguous form fields
+- Encrypted local profile storage in chrome.storage with AES-256
+- Browser overlay UI with human-in-the-loop review for failed field detections
+- CI/CD pipeline running backend tests, frontend lint/build, and extension manifest validation on every PR
 
-**Technologies**: React, TypeScript, Python, LangChain, Selenium, Docker, GitHub Actions
+**Technologies**: React, TypeScript, Vite, Chrome Extension MV3, FastAPI, Python, OpenAI, Selenium, Docker, GitHub Actions
 
 ---
 
 ## 🔭 Currently Working On
 
-- 🥇 **Argus**: Expanding AI-powered market monitoring with new detection models
-- 🧪 **Senior Capstone**: AI-driven job application tool with ML matching
+- 🧪 **Senior Capstone**: Chrome extension for AI-powered job application autofill (final term, code freeze)
 
 ## 🌱 Currently Learning
 
@@ -131,17 +134,15 @@ AI-powered web application that scrapes job boards (LinkedIn, Indeed, GitHub Job
 
 ## 📫 How to Reach Me
 
-- **Email**: [mohamsal@oregonstate.edu](mailto:mohamsal@oregonstate.edu)
+- **Email**: [salimmohamed.swe@gmail.com](mailto:salimmohamed.swe@gmail.com)
 - **LinkedIn**: [linkedin.com/in/salimamohamed](https://linkedin.com/in/salimamohamed)
 - **Portfolio**: [salimmohamed.dev](https://salimmohamed.dev)
 
-## 💼 Open to Opportunities
+## 💼 What's Next
 
-I'm actively seeking **full-time roles and internships** in:
-- **AI/ML Engineering**
-- **Full-Stack Development**
-- **Backend Engineering (Python/TypeScript/Go)**
-- **Systems Programming**
+Joining **IBM** as a **Technical Support Engineer** after graduation. Excited to apply my background in AI/ML, full-stack development, and systems work to real-world enterprise problems.
+
+Open to networking, side projects, and connecting with other engineers. Feel free to reach out.
 
 ---
 
