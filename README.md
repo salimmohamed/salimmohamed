@@ -6,7 +6,7 @@
 
 ## 🎓 About Me
 
-**Computer Science Senior** @ **Oregon State University** | Incoming **Technical Support Engineer @ IBM**
+**Technical Engineer** @ **IBM** | **Oregon State University** CS '26
 
 Background in **AI, Cybersecurity & Accounting**. I build tools that solve real problems, from AI agents that detect insider trading to full-stack platforms with real-time data. Passionate about **AI/ML**, **full-stack development**, and **systems programming**.
 
@@ -124,7 +124,7 @@ A Chrome extension that automates job applications by parsing resumes into struc
 
 ## 🔭 Currently Working On
 
-- 🧪 **Senior Capstone**: Chrome extension for AI-powered job application autofill (final term, code freeze)
+- 🤖 Internal AI agents for enterprise support workflows at **IBM**
 
 ## 🌱 Currently Learning
 
@@ -138,9 +138,9 @@ A Chrome extension that automates job applications by parsing resumes into struc
 - **LinkedIn**: [linkedin.com/in/salimamohamed](https://linkedin.com/in/salimamohamed)
 - **Portfolio**: [salimmohamed.dev](https://salimmohamed.dev)
 
-## 💼 What's Next
+## 💼 Now
 
-Joining **IBM** as a **Technical Support Engineer** after graduation. Excited to apply my background in AI/ML, full-stack development, and systems work to real-world enterprise problems.
+**Technical Engineer** at **IBM**'s Silicon Valley Lab, applying my background in AI/ML, full-stack development, and systems work to real-world enterprise problems.
 
 Open to networking, side projects, and connecting with other engineers. Feel free to reach out.
 
