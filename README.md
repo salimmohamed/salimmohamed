@@ -6,15 +6,15 @@
 
 ## 🎓 About Me
 
-**Technical Engineer** @ **IBM** | **Oregon State University** CS '26
+**Software Engineer** @ **IBM** | **Oregon State University** CS '26
 
-Background in **AI, Cybersecurity & Accounting**. I build tools that solve real problems, from AI agents that detect insider trading to full-stack platforms with real-time data. Passionate about **AI/ML**, **full-stack development**, and **systems programming**.
+Focused on **Machine Learning & AI** in full-stack development. I build tools that solve real problems, from autonomous agents that detect insider trading to full-stack platforms with real-time data. Also drawn to **systems programming** and low-level work.
 
 ## 🏆 Achievements
 
 ### 🥇 ColorStack Winter Hackathon 2025: Best Overall Project
 
-**Project**: [Argus](https://github.com/salimmohamed/colorstackwinterhack2025-argus) | [Live Demo](https://argus-watch.vercel.app)
+**Project**: [Argus](https://github.com/salimmohamed/colorstackwinterhack2025-argus) | [Live Demo](https://argusai.tech)
 
 > **🏆 Awarded Best Overall Project** at the ColorStack Winter Hackathon 2025.
 
@@ -39,8 +39,6 @@ An AI-powered agent that autonomously monitors **Polymarket** prediction markets
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ### AI & Machine Learning
 ![Claude Opus 4.5](https://img.shields.io/badge/Claude_AI-D4A574?style=for-the-badge&logo=anthropic&logoColor=white)
@@ -103,7 +101,7 @@ Real-time stock monitoring platform with portfolio tracking, smart alerts, and m
 
 ---
 
-### 🤖 [Job Hunting AI Web Tool](https://github.com/salimmohamed/CS46X-Job-Application-Tool): AI-Powered Chrome Extension
+### 🤖 [JobFiend](https://github.com/salimmohamed/CS46X-Job-Application-Tool): AI-Powered Job Application Chrome Extension
 > **Senior Capstone** | Team of 4
 
 ![Capstone Demo](assets/capstone_demo.gif)
@@ -125,6 +123,7 @@ A Chrome extension that automates job applications by parsing resumes into struc
 ## 🔭 Currently Working On
 
 - 🤖 Internal AI agents for enterprise support workflows at **IBM**
+- 🛠️ MCP server reliability, offline macOS packaging, and browser UIs for headless CLI agents
 
 ## 🌱 Currently Learning
 
@@ -140,7 +139,7 @@ A Chrome extension that automates job applications by parsing resumes into struc
 
 ## 💼 Now
 
-**Technical Engineer** at **IBM**'s Silicon Valley Lab, applying my background in AI/ML, full-stack development, and systems work to real-world enterprise problems.
+**Software Engineer** at **IBM**'s Silicon Valley Lab, applying my background in AI/ML, full-stack development, and systems work to real-world enterprise problems.
 
 Open to networking, side projects, and connecting with other engineers. Feel free to reach out.
 
