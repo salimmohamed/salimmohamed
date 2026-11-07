@@ -2,11 +2,11 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/salimamohamed)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salimmohamed.swe@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://salimmohamed.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://salimmohamed.github.io)
 
 ## 🎓 About Me
 
-**Software Engineer** @ **IBM** | **Oregon State University** CS '26
+**Software Engineer** @ **Intuit** | **Oregon State University** CS '26
 
 Focused on **Machine Learning & AI** in full-stack development. I build tools that solve real problems, from autonomous agents that detect insider trading to full-stack platforms with real-time data. Also drawn to **systems programming** and low-level work.
 
@@ -122,8 +122,8 @@ A Chrome extension that automates job applications by parsing resumes into struc
 
 ## 🔭 Currently Working On
 
-- 🤖 Internal AI agents for enterprise support workflows at **IBM**
-- 🛠️ MCP server reliability, offline macOS packaging, and browser UIs for headless CLI agents
+- 💼 Software Engineer at **Intuit** (joined December 2026)
+- 🤖 Autonomous agents and self-hosting: systems that automate workflows and infrastructure I actually control
 
 ## 🌱 Currently Learning
 
@@ -135,11 +135,11 @@ A Chrome extension that automates job applications by parsing resumes into struc
 
 - **Email**: [salimmohamed.swe@gmail.com](mailto:salimmohamed.swe@gmail.com)
 - **LinkedIn**: [linkedin.com/in/salimamohamed](https://linkedin.com/in/salimamohamed)
-- **Portfolio**: [salimmohamed.dev](https://salimmohamed.dev)
+- **Portfolio**: [salimmohamed.github.io](https://salimmohamed.github.io)
 
 ## 💼 Now
 
-**Software Engineer** at **IBM**'s Silicon Valley Lab, applying my background in AI/ML, full-stack development, and systems work to real-world enterprise problems.
+**Software Engineer** at **Intuit**, applying my background in AI/ML, full-stack development, and systems work to real-world problems. Previously at **IBM**'s Silicon Valley Lab.
 
 Open to networking, side projects, and connecting with other engineers. Feel free to reach out.
 
