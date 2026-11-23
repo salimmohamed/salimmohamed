@@ -1,5 +1,3 @@
-<h3 align="center">Hi, I'm Salim 🫡</h3>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/salimmohamed/salimmohamed/main/assets/art_dark.png">
   <img align="left" width="380" alt="ASCII art of a figure floating in a beam of light above swimmers" src="https://raw.githubusercontent.com/salimmohamed/salimmohamed/main/assets/art_light.png">
