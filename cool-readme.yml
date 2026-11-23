@@ -1,0 +1,10 @@
+# Settings for tools/cool-readme, run by .github/workflows/cards.yml
+user: salimmohamed
+show: [streaks, weekly]
+count:
+  private: true
+  orgs: true
+look:
+  style: classic
+  color: mono
+  background: none
