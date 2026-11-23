@@ -11,8 +11,8 @@
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/salimmohamed/salimmohamed/main/assets/info_dark.svg">
-  <img alt="Salim Mohamed. Software Engineer at Intuit, Oregon State CS '26, building AI agents and self-hosted infra" src="https://raw.githubusercontent.com/salimmohamed/salimmohamed/main/assets/info_light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/salimmohamed/salimmohamed/v3-cards/assets/info_dark.svg">
+  <img alt="Salim Mohamed. Software Engineer at Intuit, Oregon State CS '26, building AI agents and self-hosted infra" src="https://raw.githubusercontent.com/salimmohamed/salimmohamed/v3-cards/assets/info_light.svg">
 </picture>
 </p>
 <p align="center">
